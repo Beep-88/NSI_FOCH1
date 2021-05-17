@@ -1,0 +1,80 @@
+body{
+	background: url(https://www.gausscope.com/wp-content/uploads/2019/07/circuit-imprime.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	color: #fff;
+}
+div#main{
+	background-color: #002;
+	background-size: cover;
+	margin: auto;
+	width: 70%;
+	text-align: center;
+}
+
+header.h, footer.f{
+	background-color: #404040;
+	font-family: verdana;
+}
+header.h{
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+aside.a{
+	width: 20%;
+	height: 369px;
+	float: left;
+	background-color: #303030;
+	font-size: 30px;
+	text-align: left;
+}
+aside.b{
+	width: 20%;
+	height: 613px;
+	float: left;
+	background-color: #303030;
+	font-size: 30px;
+	text-align: left;
+}
+aside.c{
+	width: 20%;
+	height: 668px;
+	float: left;
+	background-color: #303030;
+	font-size: 30px;
+	text-align: left;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+.off{
+	background-color: #303030;
+}
+.on{
+	background-color: #202020;
+}
+
+p.p, ul li, table tr td{
+	text-indent: 30px;
+	margin-left: 22%;
+	margin-right: 2%;
+	font-size: 25px;
+	text-align: left;
+}
+h1{
+	color: red;
+	text-decoration: underline;
+}
+
+img{
+	width: 50px;
+	max-width: 100%;
+	height: auto;
+	padding-right: 5%;
+}
+p.c{
+	font-size: 12px;
+	text-align: left;
+}
